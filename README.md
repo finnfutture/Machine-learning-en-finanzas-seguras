@@ -1,1 +1,2 @@
 # Machine-learning-en-finanzas-seguras
+El machine learning está transformando el análisis financiero, permitiendo a los inversores predecir tendencias y gestionar riesgos de forma automatizada. Al analizar grandes volúmenes de datos históricos, esta tecnología identifica patrones clave que optimizan la toma de decisiones en un mercado volátil y cambiante. Aunque existen desafíos como el overfitting, el machine learning se posiciona como una herramienta esencial para mejorar la precisión y seguridad en el sector financiero.
